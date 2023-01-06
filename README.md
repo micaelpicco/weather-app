@@ -11,6 +11,10 @@ Creation of an weather application where the user the possibility to search for 
 
 React - Fetch API - CSS - Bootstrap
 
+# Project Deploy
+
+Link: https://weather-app-eight-rho.vercel.app/
+
 # Project images
 
 <kbd>
@@ -30,6 +34,4 @@ React - Fetch API - CSS - Bootstrap
  />
  </kbd>
 
-# Project Deploy
 
-Link: https://weather-app-eight-rho.vercel.app/
