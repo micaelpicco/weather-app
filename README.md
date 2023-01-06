@@ -18,11 +18,15 @@ React - Fetch API - CSS - Bootstrap
  />
  </kbd>
 
+<kbd>
  <img src="https://github.com/micaelpicco/weather-app/blob/main/weather-app/public/Captura%20de%20Pantalla%202023-01-06%20a%20la(s)%2011.36.46.png" width=500 align="center"
  />
- 
+ </kbd>
+
+<kbd>
  <img src="https://github.com/micaelpicco/weather-app/blob/main/weather-app/public/Captura%20de%20Pantalla%202023-01-06%20a%20la(s)%2011.36.17.png" width=500 align="center"
  />
+ </kbd>
 
 # Project Deploy
 
